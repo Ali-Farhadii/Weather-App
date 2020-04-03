@@ -17,4 +17,4 @@ API for get weather data : https://openweathermap.org
 
 Thanks for desing : https://dribbble.com/shots/9723236-Mono-Weather-iOS
 
-![](Weather-app/Screen/Image.png)
+![](Screen/Image.png)
