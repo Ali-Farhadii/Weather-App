@@ -25,7 +25,7 @@ struct WeatherManager {
     let scheme = "https"
     let host = "api.openweathermap.org"
     let path = "/data/2.5/weather"
-    let appId = URLQueryItem(name: "appid", value: "3dbaa80104a1c23e3e6116da39aa26e4")
+    let appId = URLQueryItem(name: "appid", value: apiKey)
     let units = URLQueryItem(name: "units", value: "metric")
     
     var delegate:WeatherManagerProtocol?
